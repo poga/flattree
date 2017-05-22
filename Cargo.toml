@@ -1,0 +1,9 @@
+[package]
+name = "flattree"
+version = "0.1.0"
+authors = ["Poga Po <poga.bahamut@gmail.com>"]
+description = "A series of functions to map a binary tree to a list"
+
+repository = "https://github.com/poga/flattree"
+
+[dependencies]
